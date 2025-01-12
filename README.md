@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 🧩[Praciting DS & Algos in Java](https://github.com/Orine99/Algorithms-Practice/blob/main/README.md)
 
 
 <h2>📺 Favorite YouTube Videos</h2>
